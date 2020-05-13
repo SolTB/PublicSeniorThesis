@@ -1,0 +1,10 @@
+##gff-version 3
+##sequence-region NC_002127.1 1 3306
+NC_002127.1	annotation	remark	1	3306	.	.	.	accession=NC_002127.1;comment=Annotations were generated from the MicroScope annotation platform. Additional results are available at http://www.genoscope.cns.fr/agc/microscope . This file is not suitable for direct databank submission. To contact us: mage%40genoscope.cns.fr .;data_file_division=BCT;date=04-JAN-2005;organism=Escherichia coli O157:H7 Sakai;source=Escherichia coli O157:H7 Sakai;topology=circular
+NC_002127.1	feature	region	1	3306	.	+	.	Is_circular=true;Note=complete sequence circular plasmid;db_xref=taxon:386585,MaGe/Organism_id:82,MaGe/Species_code:ECO57,MaGe/Sequence_id:104;mol_type=genomic DNA;organism=Escherichia coli;strain=O157:H7 Sakai
+NC_002127.1	feature	gene	413	736	.	+	.	locus_tag=pOSAK1_01
+NC_002127.1	feature	CDS	413	736	.	+	0	ID=493464;db_xref=MaGe:493464;inference=ab initio prediction:AMIGene:2.0;locus_tag=pOSAK1_01;product=MobA protein %28Plasmid mobilization%29;transl_table=11;translation=MTKRSGSNTRRRAISRPVRLTAEEDQEIRKRAAECGKTVSGFLRAAALGKKVNSLTDDRVLKEVMRLGALQKKLFIDGKRVGDREYAEVLIAITEYHRALLSRLMAD
+NC_002127.1	feature	gene	971	1351	.	-	.	locus_tag=pOSAK1_02
+NC_002127.1	feature	CDS	971	1351	.	-	0	ID=493466;db_xref=MaGe:493466;inference=ab initio prediction:AMIGene:2.0;locus_tag=pOSAK1_02;product=hypothetical protein;transl_table=11;translation=MKKDKKYQIEAIKNKDKTLFIVYATDIYSPSEFFSKIESDLKKKKSKGDVFFDLIIPNGGKKDRYVYTSFNGEKFSSYTLNKVTKTDEYNDLSELSASFFKKNFDKINVNLLSKATSFALKKGIPI
+NC_002127.1	feature	gene	1348	2388	.	-	.	locus_tag=pOSAK1_03
+NC_002127.1	feature	CDS	1348	2388	.	-	0	ID=493465;db_xref=MaGe:493465;inference=ab initio prediction:AMIGene:2.0;locus_tag=pOSAK1_03;product=hypothetical protein;transl_table=11;translation=MAQNPFKALNINIDKIESALTQNGVTNYSSNVKNERETHISGTYKGIDFLIKLMPSGGNTTIGRASGQNNTYFDEIALIIKENCLYSDTKNFEYTIPKFSDDDRANLFEFLSEEGITITEDNNNDPNCKHQYIMTTSNGDRVRAKIYKRGSIQFQGKYLQIASLINDFMCSILNMKEIVEQKNKEFNVDIKKETIESELHSKLPKSIDKIHEDIKKQLSCSLIMKKIDVEMEDYSTYCFSALRAIEGFIYQILNDVCNPSSSKNLGEYFTENKPKYIIREIHQETINGEIAEVLCECYTYWHENRHGLFHMKPGIADTKTINKLESIAIIDTVCQLIDGGVARLKL
