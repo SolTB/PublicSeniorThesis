@@ -1,0 +1,362 @@
+"Pathways"	"Ontology - parents of class"	"Genes of pathway"
+PWY-3001	ISOLEUCINE-SYN // Super-Pathways	ASPC // LYSC // ASD // THRA // METL // THRB // THRC // ILVD // ILVE // ILVC // ILVH // ILVI // ILVB // ILVN // ILVG // ILVM // TDCB // TDCR // ILVA
+ILEUSYN-PWY	ISOLEUCINE-SYN	ILVD // ILVE // ILVC // ILVH // ILVI // ILVB // ILVN // ILVG // ILVM // TDCB // TDCR // ILVA
+PWY-5493	CO2-Fixation	TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // FDX
+MANNIDEG-PWY	SUGAR-ALCOHOLS-DEG	MTLD
+BGALACT-PWY	LACTOSE-DEG	LACZ
+HEXITOLDEGSUPER-PWY	SUGAR-ALCOHOLS-DEG // Super-Pathways	MTLD // Z5618 // SRLD // GATZ // AGAZ // GATY // AGAY // GATD // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PPSA // FBP
+PWY0-1261	Anhydromuropeptides-Recycling	AMIA // NAGA // MRSA // GLMU
+SORBDEG-PWY	SUGAR-ALCOHOLS-DEG	Z5618 // SRLD
+PWY-5989	Stearate-Biosynthesis	Z1549 // Z4866 // Z4865 // FABG // FABA // FABZ // FABI // ACPP
+GALACTITOLCAT-PWY	SUGAR-ALCOHOLS-DEG	GATZ // AGAZ // GATY // AGAY // GATD
+PWY-6892	Thiazole-Biosynthesis	THIG // THIH // DXS // THIF // THIS
+PWY-5137	Fatty-Acid-Degradation	FADB
+FAO-PWY	Fatty-Acid-Degradation	FADD // YAFH // AIDB // FADB
+PWY-5194	Porphyrin-Compounds-Biosynthesis	HEMX // CYSG
+PWY-1001	PRIMARY-CELL-WALL // Polysaccharides-Biosynthesis // SECONDARY-CELL-WALL	YHJOP
+CATECHOL-ORTHO-CLEAVAGE-PWY	Catechol-Degradation	YCJG
+PWY0-1335	AEROBIC-RESPIRATION // Electron-Transfer	NDH // NUOA // NUOB // NUOC // NUOE // NUOF // NUOG // NUOH // NUOI // NUOJ // NUOK // NUOL // NUOM // NUON // CYOA // CYOB // CYOC // CYOD
+PWY0-1334	AEROBIC-RESPIRATION // Electron-Transfer	NDH // NUOA // NUOB // NUOC // NUOE // NUOF // NUOG // NUOH // NUOI // NUOJ // NUOK // NUOL // NUOM // NUON // CYDA // CYDB
+GLYCLEAV-PWY	GLYCINE-DEG	Z1548 // LPDA // GCVT // GCVP
+PWY0-1329	AEROBIC-RESPIRATION // Electron-Transfer	CYOA // CYOB // CYOC // CYOD // SDHB // SDHC // SDHD // SDHA
+PWY-6772	Hydrogen-Production	FDHF // YGBO // HYFG // HYCG // Z4351
+PWY0-1353	AEROBIC-RESPIRATION // Electron-Transfer	SDHB // SDHC // SDHD // SDHA // CYDA // CYDB
+PWY0-522	Lipoate-Biosynthesis	Z5988
+PWY-3781	AEROBIC-RESPIRATION // Electron-Transfer	SDHB // SDHC // SDHD // SDHA // NDH // NUOA // NUOB // NUOC // NUOE // NUOF // NUOG // NUOH // NUOI // NUOJ // NUOK // NUOL // NUOM // NUON // Z2790 // YFEH // YGBE
+PWY0-501	Lipoate-Biosynthesis	LIPA // LIPB // ACPP
+PWY-5739	GDP-Sugar-Biosynthesis	PER // GMD // Z3198
+PWY-5668	Cardiolipin-Biosynthesis	PGPA // PGPB // CLS // PGSA
+PWY-5941	Glycan-Degradation // Glycogen-Degradation	MALQ // GLGP // MALP // PGM
+PWY0-1545	Cardiolipin-Biosynthesis	PGSA // PGPA // PGPB
+GLYCOCAT-PWY	Glycan-Degradation // Glycogen-Degradation	MALQ // PGM // MALP // GLGP // MALZ // GLK
+PWY-5783	Polyprenyl-Biosynthesis	ISPB
+PWY-5123	All-Trans-Farnesyl-PP-Biosynthesis	ISPA
+PWY-66	GDP-Sugar-Biosynthesis	GMD // Z3198 // FCI
+PWY-5659	GDP-Sugar-Biosynthesis	PGI // MANA // MANB // CPSG
+GLUDEG-II-PWY	Acetyl-CoA-Butyrate // GLUTAMATE-DEG // Super-Pathways	FADA // FADB // AIDB // YAFH // Z0892 // Z0895 // HYFC // HYFB // HYFG // HYFI // HYFH // HYFF // HYFE // HYFD // HYFA // HYCD // HYCC // HYBC // HYBA // HYAC // HYAB // HYAA // HYCB // HYCF // HYCE // HYCG // YGBO // Z4351 // ACS // FDX
+PWY-5676	Acetyl-CoA-Butyrate // Super-Pathways	FADA // ACKA // TDCD // PTA // AIDB // YAFH
+RIBOSYN2-PWY	Flavin-Biosynthesis	RIBE // Z0516 // RIBB // RIBD // RIBA
+PWY-7315	dTDP-Sugar-Biosynthesis	WECD // WECE // RFFH // RFFG
+CARNMET-PWY	CARN-DEG	CAIA // CAIB // CAID // CAIC
+PWY66-21	Ethanol-Degradation	ADHE // ADHC // ADHP // Z2778 // YNEI // Z2275 // ALDA // ALDH // MHPF // ACS
+ETOH-ACETYLCOA-ANA-PWY	Ethanol-Degradation	ADHC // ADHP // ADHE // MHPF // Z2275 // YNEI // Z2778
+HISTSYN-PWY	HISTIDINE-SYN	HISD // HISC // HISB // HISF // HISA // HISI // HISG
+PWY-4121	Polyamine-Biosynthesis // Reductants	GSP
+GLUCONEO-PWY	Gluconeogenesis	PGI // FBP // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // GAPA // GAPC // G7E-3 // GPMA // YIBO // GPMB // ENO // PCKA // PPC // PPSA // TPIA // Z5352 // Z4858 // Z4856 // Z4353 // Z4227 // Z3955 // Z3802 // Z3639 // Z3637 // Z3604 // Z3511 // Z2851 // Z2691 // Z2319 // Z2211 // Z2186 // Z1507 // Z1106 // YQIB // YQHE // YJJT // YJIL // YJCQ // YJCP // YICF // YHHN // YHCJ // YHBW // YGJO // YGDL // YGCA // YFIC // YFBB // YECP // YEBH // YDIF // YBJX // YBJP // YBJF // YBIX // YBIP // YBIB // YBHJ // YAIH // YAGX // VACB // MDH // YLBC // SFCA
+BETSYN-PWY	Betaine-Biosynthesis	BETA // BETB
+PWY-6122	AIR-Biosynthesis	PURF // PURD // PURL // PURM // PURT
+PWY-6121	AIR-Biosynthesis	PURF // PURD // PURN // PURT // PURL // PURM
+PWY-6277	AIR-Biosynthesis // Super-Pathways	PURN // PURF // PURD // PURL // PURM // PURT
+PWY-6163	Chorismate-Biosynthesis	AROC // AROA // AROL // AROK // AROE // AROD // YDIB
+ARO-PWY	Chorismate-Biosynthesis // Super-Pathways	AROB // AROG // AROH // AROF // AROC // AROA // AROL // AROK // AROE // AROD // YDIB
+MALATE-ASPARTATE-SHUTTLE-PWY	OTHER-ENERGY	ASPC // MDH // YLBC // SFCA
+CYSTSYN-PWY	CYSTEINE-SYN	CYSE // Z2984 // CYSK // CYSM
+PWY0-1507	BIOTIN-SYN	BIOD // BIOB // BIOA
+PWY-6823	Molybdenum-Cofactor-Biosynthesis	MOAA // MOAD // MOAB
+BIOTIN-BIOSYNTHESIS-PWY	BIOTIN-SYN // Super-Pathways	FABF // FABI // FABZ // Z4865 // BIOC // Z4866 // Z1549 // FABG // FABH // BIOF // BIOD // BIOB // BIOA // ACPP
+PWY0-42	Methyl-Citrate-Cycle	FADD // PRPE // ACS // PRPC // PRPD // PRPB
+PWY0-1479	Nucleic-Acid-Processing	RND // CCA // RPH
+THISYN-PWY	Super-Pathways // Thiamine-Biosynthesis	THID // THIC // THIL // THIJ // THIG // THIH // DXS // THIF // THIS
+PWY0-1324	NAN-MANNACs-degradation	NANA
+PWY-6890	HMP-PP-Biosynthesis	THID // THIC
+PWY-6620	Guanine-Guanosine-Salvage	HPT // GPT // DEOD
+PWY-6618	Guanine-Guanosine-Salvage	GSK
+PWY-6579	Guanine-Guanosine-Salvage // Super-Pathways	HPT // GPT // DEOD // GSK
+GLYCEROLMETAB-PWY	GLYCEROL-DEG	GLDA // Z1970 // Z1971
+PWY-6952	GLYCEROL-DEG	UGPQ // GLPQ // GLPB // GLPC // GLPD // GLPA
+PWY-6131	GLYCEROL-DEG	GLDA // Z1970 // Z1971
+PWY0-381	GLYCEROL-DEG // Super-Pathways	GLPK // UGPQ // GLPQ // GLPB // GLPC // GLPD // GLPA
+PWY-7411	Phospholipid-Biosynthesis	PLSB // PLSC // GPSA
+PHOSLIPSYN-PWY	Phospholipid-Biosynthesis // Super-Pathways	CLS // PSSA // Z5766 // CDSA // Z2318 // PLSC // PLSB // PGSA // PGPA // PGPB // ACPP
+PWY-5667	CDP-diacylglycerol-Biosynthesis	CDSA // Z2318 // PLSC // PLSB
+PWY0-1319	CDP-diacylglycerol-Biosynthesis	CDSA // Z2318 // PLSC // PLSB // ACPP
+ANAEROFRUCAT-PWY	Fermentation-to-Lactate // Super-Pathways	LLDD // PGI // GLK // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PPSA // FBP
+PWY0-1535	D-Amino-Acid-Degradation	DSDA
+PWY-7181	Pyrimidine-Deoxyribonucleosides-Deg	CDD // G7E-1 // DEOA
+PWY0-1295	Pyrimidine-Ribonucleosides-Degradation	CDD // G7E-1
+PWY0-823	ARGININE-DEG	ADIA // SPEA // SPEB
+HOMOSER-METSYN-PWY	Methionine-De-novo-Biosynthesis	METE // METH // METB // G7E-0 // METC
+PWY-5347	Methionine-De-novo-Biosynthesis // Super-Pathways	ASPC // LYSC // ASD // THRA // METL // METE // METH // METB // G7E-0 // METC
+METSYN-PWY	Methionine-De-novo-Biosynthesis // Super-Pathways	METE // METH // METB // G7E-0 // METC // LYSC // ASD // THRA // METL
+ASPARTATESYN-PWY	ASPARTATE-SYN	ASPC
+PWY-6268	Cobamide-Salvage	BTUR
+GLUCARDEG-PWY	D-Glucarate-Degradation	YGCY // YGCX
+COBALSYN-PWY	B12-Salvage-From-Cobinamide // Super-Pathways	COBU // COBT // COBB // BTUR // COBS
+ACETOACETATE-DEG-PWY	Other-Degradation	FADA
+PWY-7308	Acrylonitrile-Degradation	YCBB // Z4134 // YGIC // GSP // YJFC
+NADPHOS-DEPHOS-PWY	NAD-Metabolism	PNTA // PNTB
+PYRIDNUCSYN-PWY	NAD-SYN	NADE // NADC // NADA // NADB
+ENTNER-DOUDOROFF-PWY	Entner-Duodoroff-Pathways	EDA // EDD
+PYRIDNUCSAL-PWY	NAD-SYN	PNCB // NADE // YCBB // Z4134 // YGIC // GSP // YJFC
+PWY-5453	Methylglyoxal-Detoxification	GLDA
+PWY-7335	UDP-Sugar-Biosynthesis	WECC // WECB
+PWY-6690	Phenolic-Compounds-Degradation	HCAB
+PWY-7346	UDP-Sugar-Biosynthesis	UGD
+HCAMHPDEG-PWY	Phenolic-Compounds-Degradation	MHPC // MHPB // MHPA // HCAB // HCAA2 // HCAC // HCAD // HCAA1
+GLYCOGENSYNTH-PWY	GLYCOGEN-BIOSYN	GLGA // GLGB // GLGC // PGM
+PWY-7344	UDP-Sugar-Biosynthesis	GALE // Z3206
+PWY-5484	GLYCOLYSIS-VARIANTS	PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PPSA // FBP
+GLYCOLYSIS	GLYCOLYSIS-VARIANTS	PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PGI // PPSA // FBP
+PWY-7343	UDP-Sugar-Biosynthesis	GALU // PGM
+ANAGLYCOLYSIS-PWY	GLYCOLYSIS-VARIANTS	GLK // PGI // PFKB // PFKA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // TPIA // GAPA // GAPC // G7E-3 // GPMA // YIBO // GPMB // ENO // PYKF // PYKA
+GLUTSYNIII-PWY	GLUTAMATE-SYN	GDHA // GLTD // GLTB
+GLUTSYN-PWY	GLUTAMATE-SYN	GLTD // GLTB
+PWY-7401	Fermentation // Super-Pathways	ACS // FADB // FADA
+PWY3DJ-35471	Ascorbate-Biosynthesis	GALU // PGM // UGD
+PWY-6415	Ascorbate-Biosynthesis // Super-Pathways	GALU // PGM // UGD
+PWY0-1325	ASPARAGINE-SYN // Super-Pathways	ASNB // ASNA
+FERMENTATION-PWY	Fermentation-to-Acids // Pyruvate-Ethanol-Fermentation	PTA // ACKA // TDCD // TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // Z2275 // YNEI // Z2778 // ADHE // ADHC // ADHP // PYKF // PYKA // LDHA // Z0887 // FUMA // FUMB // FUMC // PPC // HYCB // HYCF // HYCE // HYCG // FDHF // FRDD // FRDC // FRDB // FRDA // GLTA // PRPC // ACNA // ACNB // ICDA // MDH // YLBC // SFCA
+ASPARAGINESYN-PWY	ASPARAGINE-SYN	ASNB // ASNA
+CHOLINE-BETAINE-ANA-PWY	Choline-Degradation	BETB // BETA
+ASPARAGINE-BIOSYNTHESIS	ASPARAGINE-SYN	ASNB
+PWY0-1312	Acetate-Formation	ACKA // TDCD // PTA
+PWY-5535	Acetate-Formation	ACS
+P461-PWY	Acetate-Formation // Fermentation-to-Lactate // Pyruvate-Ethanol-Fermentation // SUGAR-ALCOHOLS-DEG // Super-Pathways	LLDD // ACKA // TDCD // PTA // TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // Z2275 // YNEI // Z2778 // ADHE // ADHC // ADHP // MHPF // Z5618 // SRLD // MTLD // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PPSA // FBP
+PWY-6317	GALACTOSE-DEGRADATION	GALK // WCAK // GALT // GALE // Z3206 // YCJU // GALM // YIHR
+PWY-5755	4-Hydroxybenzoate-Biosynthesis	UBIC
+ALADEG-PWY	ALANINE-DEG	DADX // ALR // DADA
+PWY-1861	Formaldehyde-Assimilation	SGAH // PFKB // PFKA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // TALB // MIPB // TALA // TALC // TKTA // TKTB // RPE // RPIA
+PWY-5964	Cofactor-Biosynthesis	MOBB
+SAM-PWY	Cofactor-Biosynthesis	METK
+P2-PWY	Cofactor-Biosynthesis	CITG // CITC
+GLCMANNANAUT-PWY	AMINE-DEG // Super-Pathways	NAGB // NAGA // NANA
+PWY0-1433	Cofactor-Biosynthesis	FOLX
+PWY0-1477	AMINE-DEG	EUTC // EUTB
+PWY-6012	Cofactor-Biosynthesis // Interconversion	ACPD // Z1544 // ACPS // ACPP
+PWY-6609	Adenine-Adenosine-Salvage	DEOD // ADD // GPT // HPT
+PWY-6537	4-Aminobutyraye-Degradation	GOAG // GABT // GABD
+P121-PWY	Adenine-Adenosine-Salvage	DEOD // APT
+PWY-5508	B12-Biosynthesis-From-Cobyrinate-Diamide	COBU // COBS // COBT // COBB
+PWY-7197	Metabolic-Clusters // Pyrimidine-Nucleotide-Salvage	YCEG // TMK // CMK // NDK
+PWY-7224	Metabolic-Clusters // Purine-Nucleotides-Salvage	GMK // NDK
+PWY-6610	Adenine-Adenosine-Salvage	GPT // HPT // YICP // APT
+PWY-7184	Metabolic-Clusters // Pyrimid-Deoxyribonucleot-De-Novo-Biosyn	DUT // THYA // YCEG // TMK // NDK // NRDB // NRDA // NRDF // NRDE // TRXA
+ASPASN-PWY	Amino-Acid-Biosynthesis // Super-Pathways	ASPA // ASPC // ASNB // ASNA // ANSA // ANSB
+BRANCHED-CHAIN-AA-SYN-PWY	Amino-Acid-Biosynthesis // Super-Pathways	LEUB // LEUC // LEUA // LEUD // ILVD // ILVE // ILVC // ILVH // ILVI // ILVB // ILVN // ILVG // ILVM // TDCB // TDCR // ILVA
+SALVPURINE2-PWY	Purine-Nucleotides-Salvage	DEOD
+COMPLETE-ARO-PWY	Amino-Acid-Biosynthesis // Super-Pathways	AROB // AROG // AROH // AROF // AROC // AROA // AROL // AROK // AROE // AROD // YDIB // TRPC // TRPE_1 // TRPD // TRPE_2 // UBIC // TRPB // TRPA // HISC // TYRB // PHEA // TYRA
+PWY-6611	Adenine-Adenosine-Salvage	DEOD // ADD // GSK
+P4-PWY	Amino-Acid-Biosynthesis // Super-Pathways	THRB // THRC // ASPC // DAPF // LYSA // DAPE // DAPD // DAPA // ASD // LYSC // THRA // METL // METE // METH // METB // G7E-0 // METC
+1CMET2-PWY	Folate-Transformations	PURU // Z0055 // GLYA // FOLD // LPDA // GCVT // GCVP // METF // METH // THYA // FOLC
+SER-GLYSYN-PWY	Amino-Acid-Biosynthesis // Super-Pathways	SERC // SERA // SERB // GLYA
+GLUAMCAT-PWY	N-Acetylglucosamine-Degradation	NAGB // NAGA
+PWY-2201	Folate-Transformations	PURU // GLYA // FOLD // LPDA // GCVT // GCVP // METH // METF // FDX
+PWY-4381	Fatty-Acid-Biosyn-Initiation	ACCC // ACCB // ACCA // ACCD // FABD // FABH // Z1549 // Z4866 // Z4863 // ACPP
+PWY-5704	Urea-Degradation	UREC // UREB // G7E-4 // URED // UREF // UREG // UREA_2 // UREB_2 // UREC_2 // URED_2 // UREF_2 // UREG_2
+PWY-5087	GLUTAMATE-DEG	Z0892 // Z0895
+GLUTDEG-PWY	GLUTAMATE-DEG	ASPC // ASPA
+PWY-6374	Siderophores-Biosynthesis // Super-Pathways	ENTC // MENF // ENTB // ENTA // ENTE
+PWY3O-210	GLUTAMATE-DEG // Super-Pathways	GADB // GADA // PAND // GOAG // GABT // GABD
+ENTBACSYN-PWY	Siderophores-Biosynthesis // Super-Pathways	ENTD // ENTF // ENTE // ENTC // MENF // ENTB // ENTA
+PWY0-1305	Acid-Resistance // GLUTAMATE-DEG	GADB // GADA // PAND
+PWY0-1299	Acid-Resistance	ADIA // SPEA
+ASPARAGINE-DEG1-PWY	ASPARAGINE-DEG	ANSA // ANSB
+PWY0-541	Cyclopropane-fatty-acid-biosyn	CFA
+VALDEG-PWY	VALINE-DEG	ILVE // FADB
+PWY-7003	Alcohol-Biosynthesis // Super-Pathways	GLDA // Z1970 // Z1971 // TPIA // GAPA // GAPC // G7E-3 // GPMA // YIBO // GPMB // ENO // PYKF // PYKA // FADA // FDX
+PWY-7400	ARGININE-SYN	ARGG // ARGH // ARGI // CARB // CARA // ARGB // ARGC
+ARGSYN-PWY	ARGININE-SYN // Super-Pathways	ARGG // ARGH // ARGI // CARB // CARA // ARGA // AGAS // ARGB // ARGC // CSTC // ARGD // ARGE
+TREDEGLOW-PWY	Trehalose-Degradation	TREC // GLK
+PWY0-1182	Trehalose-Degradation	TREA // TREC // TREF // GLK // YIHR // GALM
+PROUT-PWY	PROLINE-DEG	PUTA
+PWY-5686	UMP-Biosynthesis	CARB // CARA // PYRB // PYRI // PYRC // PYRE // PYRF // PYRD
+FOLSYN-PWY	Folate-Biosynthesis // Super-Pathways	FOLP // FOLC // Z0055 // FOLK // FOLE // PABA // PABB // PABC // FOLD // PURN // PURT
+PWY-2161	Folate-Biosynthesis	GLYA // FOLC
+TCA	TCA-VARIANTS	Z0887 // FUMA // FUMB // FUMC // SUCD // SUCC // LPDA // SUCB // SUCA // ICDA // GLTA // PRPC // ACNA // ACNB // SDHB // SDHC // SDHD // SDHA // MDH // YLBC // SFCA
+PWY-6543	Folate-Biosynthesis	PABA // PABB // PABC
+PWY-5971	Palmitate-Biosynthesis	Z4866 // Z1549 // Z4863 // FABB // FABF // FABH // Z4865 // FABG // FABA // FABZ // FABI // ACPP
+PWY-6612	Folate-Biosynthesis // Super-Pathways	FOLP // FOLC // Z0055 // FOLK // FOLE // PABA // PABB // PABC
+PWY-6613	Folate-Biosynthesis	FOLD // PURN // PURT
+PWY-6614	Folate-Biosynthesis	FOLP // FOLC // Z0055
+PWY-6147	6-HM-Dihydropterin-PP-Biosynthesis	FOLK // FOLE
+BSUBPOLYAMSYN-PWY	Spermidine-Biosynthesis	SPEE // SPED
+PWY0-1297	NUCLEO-DEG // Super-Pathways	DEOD // ADD // DEOB // DEOC // ADHE // MHPF // Z2275 // YNEI // Z2778
+PWY-5340	Activation // Sulfur-Metabolism	CYSD // CYSN // CYSC
+PWY0-1296	Purine-Degradation	ADD // DEOD
+PWY-7179	Purine-Degradation	DEOD // ADD
+PWY-5695	Purine-Degradation	GUAB // DEOD // YAGT
+SALVADEHYPOX-PWY	Adenosine-Nucleotides-Degradation	DEOD // ADD // YAGS // YAGT
+PWY-6617	Adenosine-Nucleotides-Degradation	AMN
+PYRIDOXSYN-PWY	Vitamin-B6-Biosynthesis	PDXH // EPD // DXS // PDXJ // PDXB // SERC // PDXA
+PLPSAL-PWY	Vitamin-B6-Biosynthesis	PDXH // PDXK // PDXY
+PWY-6894	Thiamin-Diphosphate-Biosynthesis	THIL // THIJ
+PWY0-461	LYSINE-DEG	LDCC // CADA
+PWY-7242	SUGAR-ACIDS-DEG	UXUB // UXUA // UXAA // KDGK // EDA
+GALACTUROCAT-PWY	D-Galacturonate-Degradation	UXAA // KDGK // UXAB // UXAC
+PWY-5509	Adenosylcobamide-Biosynthesis	COBU // COBS // COBT // COBB
+PWY-6708	Ubiquinone-Biosynthesis	UBIG // UBIX // UBIA
+PWY-7247	D-Glucuronate-Degradation	UXAC // UIDA_2 // UIDA_1
+PWY-5188	Tetrapyrrole-Biosynthesis	HEMD // HEMC // HEMB // HEML // HEMA // GOR // GLTX // GLTU // GLTV // GLTW // GLTT
+GLUCUROCAT-PWY	D-Glucuronate-Degradation // Super-Pathways	UXUB // UXUA // UXAA // KDGK // EDA // UXAC // UIDA_2 // UIDA_1
+PWY-5084	Respiration	Z4047 // LPDA // SUCB // SUCA
+PWY-6519	7-Keto-8-aminopelargonate-Biosynthesis	FABF // FABI // FABZ // Z4865 // BIOC // Z4866 // Z1549 // FABG // FABH // BIOF // ACPP
+PWY0-1321	ANAEROBIC-RESPIRATION // Electron-Transfer // Nitrate-Reduction	FDHF // FDOI // FDOG // FDOH // FDNH // FDNI // FDNG // HYFI // NARH // NAPA // NARG
+PWY-5674	ANAEROBIC-RESPIRATION // Nitrate-Reduction	NRFG // NRFF // NRFD // NRFB // NRFC // NIRC // NARH // NAPA // NARG
+PWY0-1356	ANAEROBIC-RESPIRATION // Electron-Transfer	FDHF // FDOI // FDOG // FDOH // FDNH // FDNI // FDNG // HYFI // Z2579 // Z3785 // Z3784 // Z3783 // DMSC // DMSB // DMSA
+ANARESP1-PWY	ANAEROBIC-RESPIRATION	PYKF // PYKA // ACEF // ACEE // LPDA // GLTA // PRPC // ACNA // ACNB // ICDA // PPC // Z0887 // FUMA // FUMB // FUMC // TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // ENO // HYCB // HYCF // HYCE // HYCG // FDHF // FRDD // FRDC // FRDB // FRDA // MDH // YLBC // SFCA
+PWY0-1355	ANAEROBIC-RESPIRATION // Electron-Transfer	FDHF // FDOI // FDOG // FDOH // FDNH // FDNI // FDNG // HYFI // BISC // BISZ // TORC // TORA
+PANTO-PWY	Pantothenate-Biosynthesis	PANC // APBA // PANB // COAA
+PWY-6126	Purine-Nucleotide-De-Novo-Biosynthesis // Super-Pathways	PURA // PURB // ADK // FLII // Z3799 // ATPB // ATPE // ATPF // ATPH // ATPA // ATPG // ATPD // ATPC // NRDB // NRDE // NRDA // NRDF // NDK // NRDD // TRXA
+ARABCAT-PWY	L-Arabinose-Degradation	ARAA // ARAD // ARAB
+PWY-6125	Purine-Nucleotide-De-Novo-Biosynthesis // Super-Pathways	GUAB // HISH // GUAA // GMK // NRDE // NRDB // NRDD // NRDA // NRDF // NDK // TRXA
+PWY-7229	Purine-Nucleotide-De-Novo-Biosynthesis // Super-Pathways	PURA // PURB // ADK // FLII // Z3799 // ATPB // ATPE // ATPF // ATPH // ATPA // ATPG // ATPD // ATPC // NRDB // NRDA // NRDF // NRDE // NDK // TRXA
+DENOVOPURINE2-PWY	Purine-Nucleotide-De-Novo-Biosynthesis // Super-Pathways	PURF // PURD // PURL // PURM // PURT // PURC // PURH // PURE // PURK // GUAB // HISH // GUAA // GMK // PURA // PURB // ADK // FLII // Z3799 // ATPB // ATPE // ATPF // ATPH // ATPA // ATPG // ATPD // ATPC // NRDB // NRDE // NRDA // NRDF // NDK // NRDD // TRXA
+PWY-7228	Purine-Nucleotide-De-Novo-Biosynthesis // Super-Pathways	GUAB // HISH // GUAA // GMK // NRDF // NRDE // NRDB // NRDA // NDK // TRXA
+PWY-7220	Adenosine-Deoxy-Denovo-Bbiosynthesis	NRDB // NRDE // NRDA // NRDF // NDK // NRDD // TRXA
+PWY-7227	Adenosine-Deoxy-Denovo-Bbiosynthesis	NRDB // NRDA // NRDF // NRDE // NDK // TRXA
+PWY4FS-8	PhosphatidylglycerolBiosynthesis // Super-Pathways	CDSA // Z2318 // PLSC // PLSB // PGSA // PGPA // PGPB
+TRNA-CHARGING-PWY	Aminoacyl-tRNAs-Charging // Metabolic-Clusters	ARGS // CYSS // GLNS // GOR // GLTX // ILES // LEUS // VALS // ALAS // ASNS // ASPS // TYRS // TRPS // THRS // SERS // PROS // PHEM // PHET // PHES // METG // YJEA // LYSS // LYSU // HISS // GLYQ // GLYS // CYST // GLNV // GLNW // GLNX // GLNU // GLTU // GLTV // GLTW // GLTT // LEUU // LEUZ // LEUV // LEUW // LEUT // LEUX // VALW // VALT // VALX // VALU // VALY // VALV // VALZ // ALAV // ALAX // ALAT // ALAU // ASNU // ASNV // ASNW // ASNT // ASPT // ASPU // ASPV // TYRV // TYRT // TYRU // TRPT // THRT // THRU // THRV // THRW // SERW // SERT // SERX // SERU // SERV // PROM // PROK // PROL // PHEU // PHEV // METU // METZ // METV // METW // METT // METY // LYSW // LYSY // LYST // LYSZ // LYSV // HISR // GLYX // GLYU // GLYY // GLYV // GLYW // GLYT
+PWY4FS-7	PhosphatidylglycerolBiosynthesis // Super-Pathways	CDSA // Z2318 // PLSC // PLSB // PGSA // PGPA // PGPB // ACPP
+PWY-6608	Guanosine-Nucleotides-Degradation	YAGT // DEOD
+PROSYN-PWY	PROLINE-SYN	PROC // PROA // PROB
+PWY-3341	PROLINE-SYN	PROB // YGJG // PROC
+LIPAS-PWY	Fatty-Acid-and-Lipid-Degradation	YBAC // YHJY
+LIPASYN-PWY	Fatty-Acid-and-Lipid-Degradation // Metabolic-Clusters	PLDA
+PWY-4261	Fatty-Acid-and-Lipid-Degradation // GLYCEROL-DEG	GLPK // GLPB // GLPC // GLPD // GLPA
+TYRSYN	TYROSINE-SYN	TYRB // PHEA // TYRA
+PWY-6630	Super-Pathways // TYROSINE-SYN	AROB // AROG // AROH // AROF // AROC // AROA // AROL // AROK // AROE // AROD // YDIB // TYRB // PHEA // TYRA
+DARABCATK12-PWY	D-Arabinose-Degradation	FUCI // FUCK // ALDH // Z2778 // YNEI // Z2275 // ALDA
+NAGLIPASYN-PWY	Lipid-Biosynthesis // Lipopolysaccharide-Biosynthesis	YBBF // LPXD // LPXC // LPXA // ACPP
+PWY-6628	PHENYLALANINE-SYN // Super-Pathways	AROB // AROG // AROH // AROF // AROC // AROA // AROL // AROK // AROE // AROD // YDIB // TYRB // HISC // PHEA // TYRA
+PWY0-1264	Lipid-Biosynthesis	BIRA // ACCC // ACCD // ACCA // ACCB
+PWY-5148	Lipid-Biosynthesis	TESB
+HOMOSERSYN-PWY	Other-Amino-Acid-Biosynthesis	LYSC // ASD // THRA // METL
+PHESYN	PHENYLALANINE-SYN	TYRB // HISC // PHEA // TYRA
+PWY-5155	Beta-Alanine-Biosynthesis	PAND
+GLUTAMINDEG-PWY	GLUTAMINE-DEG	CARA // HISH // GUAA // PYRG // ASNB // GLTD // GLTB // YBAS // YNEH // CARB
+GLUTAMINEFUM-PWY	GLUTAMINE-DEG	GLTD // GLTB
+PWY-5669	PhosphatidylethanolamineBiosynthesis // Phosphatidylserine-Biosynthesis	PSSA // Z5766
+FASYN-ELONG-PWY	Fatty-acid-biosynthesis	FABZ // FABA // FABI // FABG // Z4865 // FABH // FABF // FABB // Z4863 // Z1549 // Z4866 // ACPP
+PPGPPMET-PWY	Metabolic-Regulators	GPPA // RELA // SPOT // NDK
+FASYN-INITIAL-PWY	Fatty-acid-biosynthesis // Super-Pathways	ACCC // ACCB // ACCA // ACCD // FABD // Z1549 // FABG // Z4866 // Z4863 // FABB // FABF // FABH // ACPP
+PWY-5965	Fatty-acid-biosynthesis	Z1549 // FABG // Z4866 // Z4863 // FABB // FABF // ACPP
+PWY-5966	Fatty-acid-biosynthesis	Z1549 // FABG // Z4866 // Z4863 // FABB // FABF // FABH // ACPP
+GLYOXYLATE-BYPASS	Energy-Metabolism	ACEB // ACEA // GLTA // PRPC // ACNA // ACNB // MDH // YLBC // SFCA
+GLYCOLYSIS-TCA-GLYOX-BYPASS	Energy-Metabolism // Super-Pathways	ACEB // ACEA // Z0887 // FUMA // FUMB // FUMC // SUCD // SUCC // SUCB // SUCA // ICDA // GLTA // PRPC // ACNA // ACNB // SDHB // SDHC // SDHD // SDHA // MDH // YLBC // SFCA // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PGI // PPSA // FBP // ACEF // ACEE // LPDA
+GLYCOLYSIS-E-D	Energy-Metabolism // Super-Pathways	EDA // EDD // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PGI // PPSA // FBP // ZWF // YJBG
+PWY-5973	Unsaturated-Fatty-Acids-Biosynthesis	Z4866 // Z1549 // FABB // Z4865 // FABG // FABA // FABZ // FABI // ACPP
+PWY-6282	Palmitoleate-Biosynthesis	FABI // FABG // Z4865 // Z1549 // Z4866 // ACPP
+PWY0-862	5Z-Dodec-5-enoate-Biosynthesis	FABI // FABG // Z4865 // FABB // Z4863 // FABA // FABZ // ACPP
+P283-PWY	Hydrogen-Oxidation	HYAC // YGBO // HYFG // HYCG // Z4351
+PWY0-662	Sugar-Phosphate-Biosynthesis	PRSA
+PWY0-661	PRPP-Biosynthesis	DEOB // PHNN
+P21-PWY	Pentose-Phosphate-Cycle	RPE // TKTA // TKTB
+OXIDATIVEPENT-PWY	Pentose-Phosphate-Cycle	YJBG // ZWF // GND
+NONOXIPENT-PWY	Pentose-Phosphate-Cycle	TALB // MIPB // TALA // TALC // TKTA // TKTB // RPE // RPIA
+PENTOSE-P-PWY	Pentose-Phosphate-Cycle // Super-Pathways	TALB // MIPB // TALA // TALC // TKTA // TKTB // RPE // RPIA // YJBG // ZWF // GND
+COLANSYN-PWY	Carbohydrates-Biosynthesis // Super-Pathways	GMD // Z3198 // FCI // PGI // MANA // MANB // CPSG // GALU // PGM // GALE // Z3206 // UGD
+GLUTATHIONESYN-PWY	Reductants	GSHA // GSHB
+CITRULLINE-DEG-PWY	MISCELLANEOUS-DEG	ARGI // ARCC // YAHI
+GALACT-GLUCUROCAT-PWY	Super-Pathways	UXAB // UXUB // UXUA // UXAA // KDGK // EDA // UXAC // UIDA_2 // UIDA_1
+THIOREDOX-PWY	Reductants	TRXB // TRXA
+GLUT-REDOX-PWY	Reductants	GOR // GRXA
+PWY-4041	Reductants // Super-Pathways	GSHA // GSHB // PEPN // GGT
+UBISYN-PWY	Super-Pathways // Ubiquinone-Biosynthesis	UBIC // UBIG // UBIX // UBIA // ISPB
+PWY0-1241	ADP-Sugar-Biosynthesis	YAED // RFAD // GMHA
+FUC-RHAMCAT-PWY	Super-Pathways	FUCA // FUCK // FUCI // RHAD // RHAB // RHAA // ALDH // Z2778 // YNEI // Z2275 // ALDA // ALDB // LLDD // FUCO
+PRPP-PWY	Super-Pathways	HISD // HISC // HISB // HISF // HISA // HISI // HISG // PURF // PURD // PURL // PURM // PURT // PURC // PURH // PURE // PURK // GUAB // HISH // GUAA // GMK // PURA // PURB // ADK // FLII // Z3799 // ATPB // ATPE // ATPF // ATPH // ATPA // ATPG // ATPD // ATPC // NRDB // NRDE // NRDA // NRDF // NRDD // CARB // CARA // PYRB // PYRI // PYRC // PYRE // PYRF // PYRD // PYRH // CMK // NDK // PYRG // PRSA // DEOB // PHNN // TRXA
+PWY-7193	Pyrimidine-Nucleotide-Salvage	CDD // UDK
+THRESYN-PWY	Super-Pathways // THREONINE-BIOSYNTHESIS	LYSC // ASD // THRA // METL // THRB // THRC // ASPC
+PWY-5837	DHNA-Biosynthesis	MENE // MENC // MENF // MEND // YFBB // MENB
+PWY-7205	Pyrimidine-Nucleotide-Salvage	CMK // NDK
+PWY-7183	Pyrimidine-Nucleotide-Salvage	UPP
+PWY0-845	Super-Pathways // Vitamin-B6-Biosynthesis	PDXK // PDXY // PDXH // EPD // DXS // PDXJ // PDXB // SERC // PDXA
+PYRUVOX-PWY	Electron-Transfer	ACEE // POXB // ACEF
+PWY-7194	Pyrimidine-Nucleotide-Salvage // Super-Pathways	CODA // UPP
+PWY-7208	Pyrimidine-Nucleotide-Salvage // Super-Pathways	PYRH // CMK // NDK // PYRG // UPP
+SUCSYN-PWY	Sucrose-Biosynthesis // Super-Pathways	G7E-3 // GAPA // GAPC // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // FBP // GALU // PGM // PGI
+GLUTORN-PWY	L-Ornithine-Biosynthesis	ARGA // AGAS // ARGB // ARGC // CSTC // ARGD // ARGE
+PWY-6629	Super-Pathways // TRYPTOPHAN-BIOSYNTHESIS	AROB // AROG // AROH // AROF // AROC // AROA // AROL // AROK // AROE // AROD // YDIB // TRPC // TRPE_1 // TRPD // TRPE_2 // UBIC // TRPB // TRPA
+PWY-5437	THREONINE-DEG	Z1045 // PFLB // YFID // TDCE // PFLD // YBIY // PFLA // PFLC // PTA // TDCD // ACKA // TDCB // TDCR // ILVA
+PWY-5100	Pyruvate-Acetate-Fermentation // Pyruvate-Lactate-Fermentation // Super-Pathways	ACKA // TDCD // PTA // LLDD
+PWY-5485	Pyruvate-Acetate-Fermentation // Super-Pathways	TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // ACKA // TDCD // PTA
+PWY0-781	Super-Pathways	THRB // THRC // ASPC // DAPF // LYSA // DAPE // DAPD // DAPA // ASD // LYSC // THRA // METL // METE // METH // METB // G7E-0 // METC // NADE // NADC // NADA // NADB // METK
+THREONINE-DEG2-PWY	THREONINE-DEG	TDH // KBL
+P41-PWY	Pyruvate-Acetate-Fermentation // Pyruvate-Lactate-Fermentation // Super-Pathways	ACEF // ACEE // LPDA // PTA // ACKA // TDCD // LLDD
+PWY-5483	Pyruvate-Acetate-Fermentation // Super-Pathways	ACS // FDX
+MET-SAM-PWY	Super-Pathways	METE // METH // METB // G7E-0 // METC // LYSC // ASD // THRA // METL // METK
+PWY-5482	Pyruvate-Acetate-Fermentation	ACEF // ACEE // LPDA // PTA // ACKA // TDCD
+RHAMCAT-PWY	L-rhamnose-Degradation	RHAD // RHAB // RHAA
+TCA-GLYOX-BYPASS	Super-Pathways // TCA-VARIANTS	ACEB // ACEA // Z0887 // FUMA // FUMB // FUMC // SUCD // SUCC // LPDA // SUCB // SUCA // ICDA // GLTA // PRPC // ACNA // ACNB // SDHB // SDHC // SDHD // SDHA // MDH // YLBC // SFCA
+PWY0-1315	Lactaldehyde-Degradation	FUCO
+UDPNAGSYN-PWY	UDP-NAc-Glucosamine-Biosynthesis	GLMU // GLMS // MRSA // PGI
+PWY0-1317	Lactaldehyde-Degradation	ALDH // Z2778 // YNEI // Z2275 // ALDA // ALDB // LLDD
+TRPSYN-PWY	TRYPTOPHAN-BIOSYNTHESIS	TRPC // TRPE_1 // TRPD // TRPE_2 // UBIC // TRPB // TRPA
+GLYSYN-PWY	GLYCINE-SYN	GLYA
+PWY-5350	Thiosulfate-Disproportionation	Z2789 // SSEA
+TREHALOSESYN-PWY	Trehalose-biosynthesis	OTSB // OTSA
+ALANINE-VALINESYN-PWY	ALANINE-SYN	ILVE // DADX // ALR // AVTA
+PWY-881	Trehalose-biosynthesis	OTSA // OTSB
+PWY-2661	Trehalose-biosynthesis	MALS
+VALSYN-PWY	VALINE-BIOSYNTHESIS	ILVD // ILVE // ILVC // ILVG // ILVH // ILVI // ILVM // ILVN
+TRESYN-PWY	Trehalose-biosynthesis	OTSA // OTSB
+XYLCAT-PWY	Xylose-Degradation	XYLB // Z4878 // XYLA
+PWY0-901	Selenocysteine-Biosynthesis	SELD
+HOMOSER-THRESYN-PWY	THREONINE-BIOSYNTHESIS	THRB // THRC
+LEUSYN-PWY	LEUCINE-SYN	LEUB // LEUC // LEUA // LEUD
+PWY-5901	AROMATIC-COMPOUNDS-BIOSYN	ENTC // MENF // ENTB // ENTA
+PWY-6164	3-Dehydroquinate-Biosynthesis	AROB // AROG // AROH // AROF
+PWY-5111	CMP-KDO-Biosynthesis // CMP-Sugar-Biosynthesis	KDSA // KDSB
+PWY-5481	Pyruvate-Lactate-Fermentation	LLDD
+PWY-7221	Purine-Ribonuc-De-Novo-Biosynthesis	GUAB // HISH // GUAA // GMK // NDK
+PWY-7219	Purine-Ribonuc-De-Novo-Biosynthesis	PURA // PURB // ADK // FLII // Z3799 // ATPB // ATPE // ATPF // ATPH // ATPA // ATPG // ATPD // ATPC
+PWY-6123	IMP-Biosynthesis	PURC // PURB // PURH // PURE // PURK
+HEME-BIOSYNTHESIS-II	Heme-b-Biosynthesis	HEME-7E // HEMK // HEMG // HEMY // HEMH // HEMF
+PWY0-1415	Heme-b-Biosynthesis // Super-Pathways	HEMK // HEMG // HEMY // HEMH // HEME-7E // CHUW // HEMN // HEMF
+HEMESYN2-PWY	Heme-b-Biosynthesis	HEMH // HEME-7E // CHUW // HEMN // HEMF
+SERSYN-PWY	SERINE-BIOSYNTHESIS	SERC // SERA // SERB
+SERDEG-PWY	SERINE-DEG	SDAA // SDAB // Z4464
+MANNCAT-PWY	Sugars-And-Polysaccharides-Degradation	MANA
+PWY-7395	Sugars-And-Polysaccharides-Degradation	Z4489 // NAGA // GATZ // AGAZ // GATY // AGAY
+CYANCAT-PWY	Detoxification // NITROGEN-DEG	CYNS // CYNT
+GLUCOSE1PMETAB-PWY	Sugars-And-Polysaccharides-Degradation	AGP // PGM // GLK // GCD
+GLNSYN-PWY	Ammonia-Assimilation // GLUTAMINE-SYN	Z2491 // GLNA
+PWY-7180	Sugars-And-Polysaccharides-Degradation	DEOB // DEOC // ADHE // MHPF // Z2275 // YNEI // Z2778
+AMMASSIM-PWY	Ammonia-Assimilation // Super-Pathways	Z2491 // GLNA // GLTD // GLTB
+PWY0-1314	Sugars-And-Polysaccharides-Degradation	FRUK
+PWY0-1298	Pyrimidine-Degradation // Super-Pathways	CDD // G7E-1 // DEOA // DEOB // DEOC // ADHE // MHPF // Z2275 // YNEI // Z2778
+FUCCAT-PWY	Sugars-And-Polysaccharides-Degradation	FUCA // FUCK // FUCI
+PWY-6901	Sugars-And-Polysaccharides-Degradation // Super-Pathways	XYLB // Z4878 // XYLA // GAPA // GAPC // G7E-3 // GPMA // YIBO // GPMB // ENO // PYKF // PYKA // LLDD // LDHA // TALB // MIPB // TALA // TALC // TKTA // TKTB // RPE // RPIA // YJBG // ZWF // GND
+PWY0-1301	Sugars-And-Polysaccharides-Degradation	MELA
+PWY-4621	Arsenate-Detoxification	ARSC // GRXA
+PWY-46	Putrescine-Biosynthesis	SPEF // SPEC
+PWY-40	Putrescine-Biosynthesis	ADIA // SPEA // SPEB
+ACETATEUTIL-PWY	CARBOXYLATES-DEG // Super-Pathways	ACS // ACKA // TDCD // PTA
+PWY-6151	S-adenosyl-L-methionine-cycle // Super-Pathways	METK // METE
+GLUCONSUPER-PWY	CARBOXYLATES-DEG	GNTK
+PWY-5480	Pyruvate-Ethanol-Fermentation	TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // Z2275 // YNEI // Z2778 // ADHE // ADHC // ADHP // MHPF
+P441-PWY	CARBOXYLATES-DEG // Super-Pathways	NANA // NAGB // NAGA // PYKF // PYKA // ENO // GPMA // YIBO // GPMB // G7E-3 // GAPA // GAPC // TPIA // Z2811 // FBA // Z4881 // YIHT // Z5687 // SGAE // PFKB // PFKA // PPSA // FBP // Z2275 // YNEI // Z2778 // ADHE // ADHC // ADHP // MHPF // TDCE // YBIY // YFID // Z1045 // PFLA // PFLD // PFLB // PFLC // ACKA // TDCD // PTA
+GLYCOLATEMET-PWY	Glycolate-Degradation	GCL // YBBQ
+PWY-5162	CARBOXYLATES-DEG	MHPD // MHPE // ADHE // MHPF // Z2275 // YNEI // Z2778
+SUCUTIL-PWY	SUCROSE-DEG	Z3625 // Z3624
+PWY-5177	CARBOXYLATES-DEG	FADA // FADB
+DETOX1-PWY	REACTIVE-OXYGEN-SPECIES-DEGRADATION	Z3312 // SODB // SODC // SODA // KATG // KATE
+PWY-6038	CARBOXYLATES-DEG	CITD // CITE // CITF
+PWY-6700	Queuosine-Biosynthesis	TGT // QUEA
+PWY0-1313	CARBOXYLATES-DEG	ACS
+PWY0-162	Pyrimid-Ribonucleot-De-Novo-Biosyn // Super-Pathways	CARB // CARA // PYRB // PYRI // PYRC // PYRE // PYRF // PYRD // PYRH // CMK // NDK // PYRG
+PYRUVDEHYD-PWY	Acetyl-CoA-Biosynthesis // CARBOXYLATES-DEG	SUCB // SUCA // LPDA // ACEF // ACEE
+PWY-7226	Guanosine-Deoxy-Denovo-Biosynthesis	NRDF // NRDE // NRDB // NRDA // NDK // TRXA
+PWY-7176	Pyrimid-Ribonucleot-De-Novo-Biosyn	PYRH // CMK // NDK // PYRG
+PWY-7222	Guanosine-Deoxy-Denovo-Biosynthesis	NRDE // NRDB // NRDD // NRDA // NRDF // NDK // TRXA
+PWY0-1277	AROMATIC-COMPOUNDS-DEGRADATION // Super-Pathways	MHPC // MHPB // MHPA // HCAB // HCAA2 // HCAC // HCAD // HCAA1 // MHPD // MHPE // ADHE // MHPF // Z2275 // YNEI // Z2778
+SULFATE-CYS-PWY	Sulfur-Metabolism // Super-Pathways	CYSJ // CYSH // CYSI // CYSD // CYSN // CYSC // CYSE // Z2984 // CYSK // CYSM // SERC // SERA // SERB // TRXA
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	AROMATIC-COMPOUNDS-DEGRADATION	Z1506 // Z3503 // GABD
+PWY-6050	Sulfur-Metabolism	Z3785 // Z3784 // Z3783
+SO4ASSIM-PWY	Assimilatory-Sulfate-Reduction // Super-Pathways	CYSJ // CYSH // CYSI // CYSD // CYSN // CYSC // TRXA
+ECASYN-PWY	Lipopolysaccharide-Biosynthesis // Super-Pathways	WECG // Z5304 // RFE // WECD // WECE // RFFH // RFFG // WECC // WECB
+TRYPDEG-PWY	TRYPTOPHAN-DEG	TNAA
+PWY-7211	Pyrimid-Deoxyribonucleot-De-Novo-Biosyn // Super-Pathways	DUT // THYA // YCEG // TMK // NRDB // NRDA // NRDF // NRDE // CARB // CARA // PYRB // PYRI // PYRC // PYRE // PYRF // PYRD // PYRH // CMK // NDK // PYRG // TRXA
+PWY-6897	Super-Pathways // Thiamin-Salvage	THIM // THIE // THIL // THIJ // PDXK // THID
+PWY-7187	Pyrimid-Deoxyribonucleot-De-Novo-Biosyn	DCD // DUT // THYA // YCEG // TMK // NDK // NRDD
+PWY-6590	Pyruvate-Degradation // Super-Pathways	FADA // FADB // AIDB // YAFH // ACKA // TDCD // PTA // FDX
+PWY0-166	Pyrimid-Deoxyribonucleot-De-Novo-Biosyn // Super-Pathways	DCD // NRDD // DUT // THYA // YCEG // TMK // NDK // NRDB // NRDA // NRDF // NRDE // TRXA
+CENTFERM-PWY	Acetyl-CoA-Butyrate // Pyruvate-Degradation	FADA // FADB // AIDB // YAFH // FDX
+PWY-6896	Thiamin-Salvage	THIL // THIJ
+PWY-6910	Thiamin-Salvage	PDXK // THID
+KDOSYN-PWY	KDO-Lipid-IV-Transfer	KDTA
+DAPLYSINESYN-PWY	LYSINE-SYN	DAPF // LYSA // DAPE // DAPD // DAPA // ASD // LYSC // THRA // METL
+PWY0-43	SUCC-DEG	SBM // YGFG // YGFH
+PWY0-981	Taurine-degradation	TAUD
+PWY-5103	ISOLEUCINE-SYN	Z0895 // ILVH // ILVI // ILVB // ILVN // ILVG // ILVM // ILVC // ILVD // ILVE
+PWY-1722	C1-COMPOUNDS	FOLD

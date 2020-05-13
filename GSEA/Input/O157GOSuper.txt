@@ -1,0 +1,281 @@
+Fatty Acid Biosynthesis Initiation	NA	accC	accB	accA	accD	fabD	fabH	Z1549	Z4866	Z4863	acpP	
+Heme <i>b</i> Biosynthesis 	NA	hemK	hemG	hemY	hemH	hemE	chuW	hemN	hemF	
+Ascorbate Biosynthesis 	NA	galU	pgm	ugd	
+ Electron Transfer	NA	ndh	nuoA	nuoB	nuoC	nuoE	nuoF	nuoG	nuoH	nuoI	nuoJ	nuoK	nuoL	nuoN	cyoA	nuoM	cyoB	cyoC	cyoD	cydA	cydB	sdhB	sdhC	sdhD	sdhA	yfeH	ygbE	fdhF	fdoI	fdoG	fdoH	fdnH	fdnI	fdnG	hyfI	Z2579	Z3785	Z3784	Z3783	dmsB	dmsA	dmsC	bisC	bisZ	torC	torA	
+Phosphopantothenate Biosynthesis	NA	panC	apbA	panB	coaA	
+Glycan Degradation 	NA	malQ	glgP	malP	pgm	malZ	glk	
+L-tyrosine Biosynthesis	NA	tyrB	pheA	tyrA	
+D-Glucuronate Degradation 	NA	uxuB	uxuA	uxaA	kdgK	eda	uxaC	uidA_2	uidA_1	
+Phosphatidylethanolamine Biosynthesis 	NA	pssA	Z5766	
+Spermidine Biosynthesis	NA	speE	speD	
+L-lysine Biosynthesis	NA	dapF	lysA	dapE	dapD	dapA	asd	lysC	thrA	metL	
+UDP-<i>N</i>-acetyl-D-glucosamine Biosynthesis	NA	glmU	glmS	mrsA	pgi	
+Trehalose Degradation	NA	treC	glk	treA	treF	yihR	galM	
+Metabolic Regulator Biosynthesis	NA	gppA	relA	spoT	ndk	
+Thiamine Diphosphate Biosynthesis	NA	thiL	thiJ	
+ Thiamine Biosynthesis	NA	thiD	thiC	thiL	thiJ	thiG	thiH	dxs	thiF	thiS	
+CO<sub>2</sub> Fixation	NA	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	fdx	
+Phospholipid Biosynthesis 	NA	cls	pssA	Z5766	cdsA	Z2318	plsC	plsB	pgsA	pgpA	pgpB	acpP	
+L-tryptophan Biosynthesis	NA	trpC	trpE_1	trpD	trpE_2	ubiC	trpB	trpA	
+Degradation/Utilization/Assimilation - Other	NA	fadA	
+ Thiamine Salvage	NA	thiM	thiE	thiL	thiJ	pdxK	thiD	
+L-selenocysteine Biosynthesis	NA	selD	
+Ammonia Assimilation 	NA	Z2491	glnA	gltD	gltB	
+Pyrimidine Ribonucleoside Degradation	NA	cdd	udp	
+ L-glutamate Degradation	NA	gadB	gadA	panD	
+Other Amino Acid Biosynthesis	NA	lysC	asd	thrA	metL	
+L-serine Biosynthesis	NA	serC	serA	serB	
+Carnitine Degradation	NA	caiA	caiB	caiD	caiC	
+Stearate Biosynthesis	NA	Z1549	Z4866	Z4865	fabG	fabA	fabZ	fabI	acpP	
+Adenosylcobalamin Biosynthesis from Cobyrinate Diamide	NA	Z1549	Z4866	Z4865	fabG	fabA	fabZ	fabI	acpP	
+ Metabolic Clusters	NA	argS	cysS	glnS	gor	gltX	ileS	leuS	valS	alaS	asnS	aspS	tyrS	thrS	serS	trpS	proS	pheM	pheT	metG	yjeA	lysS	lysU	hisS	glyQ	glyS	cysT	glnV	glnW	glnX	glnU	gltU	gltV	gltW	gltT	leuU	leuZ	leuV	leuW	leuT	leuX	valW	valT	valX	valU	valY	valV	valZ	alaV	alaX	alaT	alaU	asnU	asnV	asnW	asnT	aspT	aspU	aspV	tyrV	tyrT	tyrU	trpT	thrT	thrU	thrV	thrW	serW	serT	serX	serU	serV	proM	proK	proL	pheU	pheV	metU	metZ	metV	metW	metT	metY	lysW	lysY	lysT	lysZ	lysV	hisR	glyX	glyU	glyY	glyV	glyW	pldA	
+6-Hydroxymethyl-Dihydropterin Diphosphate Biosynthesis	NA	folK	folE	
+ Purine Nucleotide Salvage	NA	gmk	ndk	
+ Electron Transfer 	NA	fdhF	fdoI	fdoG	fdoH	fdnH	fdnI	fdnG	hyfI	narH	napA	narG	
+Superpathways	NA	uxaB	uxuB	uxuA	uxaA	kdgK	eda	uxaC	uidA_2	uidA_1	fucA	fucK	fucI	rhaD	rhaB	rhaA	aldH	Z2778	yneI	Z2275	aldA	aldB	fucO	lldD	thrB	thrC	aspC	dapF	lysA	dapE	dapD	dapA	asd	lysC	thrA	metL	metH	metB	metE	metA	metC	nadE	nadA	nadB	metK	
+Acid Resistance 	NA	gadB	gadA	panD	
+ L-tryptophan Biosynthesis	NA	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	trpC	trpD	trpE_2	trpE_1	ubiC	trpB	trpA	
+Aromatic Compound Degradation 	NA	mhpC	mhpB	mhpA	hcaB	hcaA2	hcaC	hcaD	hcaA1	mhpD	mhpE	adhE	mhpF	yneI	Z2778	Z2275	
+ Nitrogen Compound Metabolism	NA	cynS	cynT	
+Guanine and Guanosine Salvage	NA	hpt	gpt	deoD	gsk	
+Fatty Acid Degradation	NA	gsk	fadD	yafH	aidB	fadB	
+UMP Biosynthesis	NA	carB	carA	pyrB	pyrI	pyrC	pyrE	pyrF	pyrD	
+ L-tyrosine Biosynthesis	NA	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	tyrB	tyrA	pheA	
+Succinate Degradation	NA	sbm	ygfG	ygfH	
+Siderophore Biosynthesis 	NA	entC	menF	entB	entA	entE	entD	entF	
+Lactaldehyde Degradation	NA	fucO	aldH	Z2778	yneI	Z2275	aldA	aldB	lldD	
+Fermentation of Pyruvate 	NA	fadA	fadB	aidB	yafH	ackA	tdcD	pta	fdx	
+L-isoleucine Biosynthesis 	NA	aspC	lysC	asd	thrA	metL	thrB	thrC	ilvD	ilvE	ilvC	ilvH	ilvI	ilvN	ilvG	ilvB	ilvM	tdcB	tdcR	
+L-valine Degradation	NA	ilvE	fadB	
+Sucrose Biosynthesis 	NA	pgk	gapA	gapC	Z2811	fba	Z4881	yihT	Z5687	sgaE	fbp	galU	pgm	pgi	
+Taurine Degradation	NA	tauD	
+Purine Nucleotide <i>De Novo</i> Biosynthesis 	NA	purA	purB	adk	fliI	Z3799	atpB	atpE	atpF	atpH	atpA	atpG	atpD	nrdB	nrdE	atpC	nrdA	nrdF	ndk	trxA	guaB	hisH	guaA	gmk	nrdD	purF	purD	purL	purM	purT	purC	purH	purE	purK	
+Polyprenyl Biosynthesis	NA	ispB	
+L-methionine <i>De Novo</i> Biosynthesis 	NA	aspC	lysC	asd	thrA	metL	metE	metH	metB	metA	metC	
+L-threonine Biosynthesis	NA	thrB	thrC	
+Purine Nucleotide Salvage	NA	deoD	
+4-Aminobutanoate Degradation	NA	goaG	gabT	gabD	
+Other	NA	aspC	mdh	ylbC	sfcA	
+Adenosine Deoxyribonucleotide <i>De Novo</i> Biosynthesis	NA	nrdB	nrdE	nrdA	nrdF	ndk	nrdD	trxA	
+ Fermentation of Pyruvate	NA	fadA	fadB	aidB	yafH	fdx	
+Pyruvate Fermentation to Acetate 	NA	ackA	tdcD	pta	lldD	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	aceF	aceE	lpdA	acs	fdx	
+Hydrogen Oxidation	NA	hyaC	ygbO	hyfG	hycG	Z4351	
+Inosine-5'-phosphate Biosynthesis	NA	purC	purB	purH	purE	purK	
+Sugar Degradation 	NA	xylB	Z4878	xylA	gapA	gapC	pgk	gpmA	yibO	gpmB	eno	pykF	pykA	ldhA	talB	lldD	mipB	talA	talC	tktB	rpe	rpiA	yjbG	zwf	gnd	
+Choline Degradation	NA	betB	betA	
+L-glutamine Degradation	NA	carA	hisH	guaA	pyrG	asnB	gltD	gltB	ybaS	yneH	carB	
+ Ubiquinol Biosynthesis	NA	ubiC	ubiG	ubiX	ubiA	ispB	
+Pyrimidine Nucleotide Salvage 	NA	codA	upp	pyrH	cmk	ndk	pyrG	
+ Pyruvate Fermentation to Ethanol	NA	pta	ackA	tdcD	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	Z2275	Z2778	adhE	yneI	adhC	adhP	pykF	ldhA	Z0887	fumA	fumB	fumC	ppc	hycB	hycF	hycE	hycG	fdhF	frdD	frdC	frdB	frdA	gltA	prpC	acnA	acnB	icdA	mdh	ylbC	sfcA	
+Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis 	NA	acpD	Z1544	acpS	acpP	
+NAD Metabolism	NA	pntA	pntB	
+L-glutamate Biosynthesis	NA	gdhA	gltD	gltB	
+|All-Trans-Farnesyl-PP-Biosynthesis|	NA	gltD	gltB	
+|Fermentation| 	NA	acs	fadB	fadA	
+L-alanine Degradation	NA	dadX	alr	dadA	
+Guanosine Deoxyribonucleotide <i>De Novo</i> Biosynthesis	NA	nrdF	nrdE	nrdB	nrdA	ndk	trxA	nrdD	
+ Secondary Cell Wall	NA	yhjOP	
+ Fermentation to Lactate 	NA	yhjOP	
+Queuosine Biosynthesis and Salvage	NA	tgt	queA	
+Pyrimidine Deoxyribonucleotide <i>De Novo</i> Biosynthesis	NA	dcd	dut	thyA	yceG	tmk	ndk	nrdD	
+ Pyruvate Fermentation to Ethanol 	NA	dcd	dut	thyA	yceG	tmk	ndk	nrdD	
+Gluconeogenesis	NA	pgi	fbp	Z2811	fba	Z4881	yihT	Z5687	sgaE	gapA	gapC	pgk	gpmA	gpmB	eno	yibO	pckA	ppc	ppsA	Z5352	Z4858	Z4856	Z4353	Z4227	Z3955	Z3802	Z3639	Z3637	Z3604	Z3511	Z2851	Z2691	Z2319	Z2211	Z2186	Z1507	Z1106	yqiB	yqhE	yjjT	yjiL	yjcQ	yjcP	yicF	yhhN	yhcJ	yhbW	ygjO	ygdL	ygcA	yfiC	yfbB	yecP	yebH	ydiF	ybjX	ybjP	ybjF	ybiX	ybiP	ybiB	ybhJ	yaiH	yagX	vacB	mdh	ylbC	sfcA	
+Adenosine Nucleotide Degradation	NA	deoD	add	yagS	yagT	amn	
+L-proline Biosynthesis	NA	proC	proA	proB	ygjG	
+Amino Acid Biosynthesis 	NA	aspA	aspC	asnB	asnA	ansA	ansB	serC	serA	serB	glyA	
+ Lipopolysaccharide Biosynthesis	NA	ybbF	lpxD	lpxC	lpxA	acpP	
+L-phenylalanine Biosynthesis	NA	tyrB	hisC	pheA	tyrA	
+ TCA cycle	NA	aceB	aceA	Z0887	fumA	fumB	fumC	sucD	sucC	lpdA	sucB	sucA	icdA	prpC	acnA	gltA	acnB	sdhB	sdhC	sdhA	mdh	ylbC	sfcA	
+Other Amino Acid Degradation	NA	argI	arcC	yahI	
+Adenine and Adenosine Salvage	NA	deoD	add	gpt	hpt	apt	yicP	gsk	
+Assimilatory Sulfate Reduction 	NA	cysJ	cysH	cysI	cysD	cysN	cysC	trxA	
+Tetrapyrrole Biosynthesis	NA	hemD	hemC	hemB	hemL	hemA	gor	gltX	gltU	gltV	gltW	gltT	
+Entner-Duodoroff Pathways	NA	eda	edd	
+Trehalose Biosynthesis	NA	otsB	otsA	malS	
+Adenosylcobamide Biosynthesis	NA	otsA	otsB	
+3-Dehydroquinate Biosynthesis	NA	aroB	aroG	aroH	aroF	
+2-Methylcitrate Cycle	NA	fadD	prpE	acs	prpC	prpD	prpB	
+Phospholipid Biosynthesis	NA	plsB	plsC	gpsA	
+Palmitate Biosynthesis	NA	Z4866	Z1549	Z4863	fabB	fabF	fabH	Z4865	fabG	fabA	fabZ	fabI	acpP	
+ Sulfur Compound Metabolism	NA	cysD	cysN	cysC	
+PRPP Biosynthesis	NA	deoB	phnN	
+Pyrimidine Nucleotide Degradation 	NA	cdd	udp	deoA	deoB	deoC	adhE	mhpF	Z2275	yneI	Z2778	
+L-cysteine Biosynthesis	NA	cysE	Z2984	cysK	cysM	
+Putrescine Biosynthesis	NA	speF	speC	adiA	speA	speB	
+Fatty Acid Biosynthesis 	NA	accC	accB	accA	accD	fabD	Z1549	fabG	Z4866	Z4863	fabB	fabF	fabH	acpP	
+Aromatic Compound Biosynthesis	NA	accC	accB	accA	accD	fabD	Z1549	fabG	Z4866	Z4863	fabB	fabF	fabH	acpP	
+8-Amino-7-oxononanoate Biosynthesis	NA	fabF	fabI	fabZ	Z4865	bioC	Z4866	Z1549	fabG	fabH	bioF	acpP	
+Palmitoleate Biosynthesis	NA	fabI	fabG	Z4865	Z1549	Z4866	acpP	
+Cobinamide Salvage	NA	btuR	
+Fermentation to Butanoate 	NA	fadA	fadB	aidB	yafH	Z0892	Z0895	hyfC	hyfB	hyfG	hyfI	hyfH	hyfF	hyfD	hyfA	hyfE	hycD	hycC	hybC	hyaC	hyaB	hyaA	hycB	hycF	hycE	hycG	ygbO	Z4351	acs	fdx	ackA	tdcD	pta	
+Primary Cell Wall 	NA	yhjOP	
+Molybdenum Cofactor Biosynthesis	NA	moaA	moaD	moaB	
+Folate Transformations	NA	purU	Z0055	glyA	folD	lpdA	gcvT	gcvP	metF	metH	thyA	folC	fdx	
+Pentose Phosphate Pathways	NA	rpe	tktA	tktB	yjbG	zwf	gnd	talB	mipB	talA	talC	rpiA	
+Anaerobic Respiration 	NA	fdhF	fdoI	fdoG	fdoH	fdnH	fdnI	fdnG	hyfI	narH	napA	narG	nrfG	nrfF	nrfD	nrfB	nrfC	nirC	Z2579	Z3785	Z3784	Z3783	dmsB	dmsA	dmsC	bisC	bisZ	torC	torA	
+Reductant Biosynthesis	NA	gshA	gshB	trxB	trxA	gor	grxA	
+Biotin Biosynthesis	NA	bioD	bioB	bioA	
+Methylglyoxal Detoxification	NA	gldA	
+L-arginine Biosynthesis 	NA	argG	argH	argI	carB	carA	argA	agaS	argB	argC	cstC	argD	argE	
+Superpathways 	NA	thiD	thiC	thiL	thiJ	thiG	thiH	dxs	thiF	thiS	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	tyrB	tyrA	pheA	ubiC	ubiG	ubiX	ubiA	ispB	lysC	asd	thrA	metL	thrB	thrC	aspC	pdxK	pdxY	pdxH	epd	pdxJ	pdxB	serC	pdxA	trpC	trpD	trpE_2	trpE_1	trpB	trpA	aceB	aceA	Z0887	fumA	fumB	fumC	sucD	sucC	lpdA	sucB	sucA	icdA	prpC	acnA	gltA	acnB	sdhB	sdhC	sdhA	mdh	ylbC	sfcA	thiM	thiE	
+L-asparagine Degradation	NA	ansA	ansB	
+Fermentation to Alcohols 	NA	gldA	Z1970	Z1971	tpiA	gapA	gapC	pgk	gpmA	yibO	gpmB	eno	pykF	fadA	fdx	pykA	
+TCA cycle	NA	Z0887	fumA	fumB	fumC	sucD	sucC	lpdA	sucB	sucA	icdA	gltA	prpC	acnB	sdhB	acnA	sdhC	sdhD	sdhA	ylbC	sfcA	
+L-threonine Degradation	NA	Z1045	pflB	yfiD	tdcE	pflD	ybiY	pflA	pflC	pta	tdcD	ackA	tdcB	ilvA	tdcR	tdh	kbl	
+ Glycogen Degradation	NA	malQ	glgP	malP	pgm	malZ	glk	
+Cofactor, Prosthetic Group, Electron Carrier, and Vitamin Biosynthesis	NA	mobB	metK	citG	citC	folX	
+Reductant Biosynthesis 	NA	gshA	gshB	pepN	ggt	
+ Sugar Alcohol Degradation 	NA	mtlD	Z5618	srlD	gatZ	agaZ	gatY	agaY	gatD	pykF	pykA	eno	gpmA	gpmB	pgk	yibO	gapA	gapC	tpiA	fba	Z4881	yihT	Z5687	sgaE	pfkB	pfkA	ppsA	fbp	
+L-lysine Degradation	NA	ldcC	cadA	
+Glycine Degradation	NA	Z1548	lpdA	gcvT	gcvP	
+<i>N</i>-acetylglucosamine degradation	NA	nagB	nagA	
+4-Hydroxybenzoate Biosynthesis	NA	ubiC	
+Generation of Precursor Metabolite and Energy	NA	aceB	aceA	gltA	prpC	acnA	acnB	mdh	ylbC	sfcA	
+Nucleoside and Nucleotide Degradation 	NA	deoD	add	deoB	deoC	adhE	mhpF	Z2275	yneI	Z2778	
+Pyruvate Fermentation to Acetate	NA	aceF	aceE	lpdA	pta	ackA	tdcD	
+Pyruvate Fermentation to Ethanol	NA	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	Z2275	yneI	Z2778	adhE	adhP	mhpF	adhC	
+Pyrimidine Ribonucleotide <i>De Novo</i> Biosynthesis	NA	pyrH	cmk	ndk	pyrG	
+ CMP-sugar Biosynthesis	NA	kdsA	kdsB	
+Sugar Acid Degradation	NA	uxuB	uxuA	uxaA	kdgK	eda	
+Cardiolipin Biosynthesis	NA	pgpA	pgpB	cls	pgsA	
+<i>S</i>-adenosyl-L-methionine cycle 	NA	metK	metE	
+Fatty Acid and Lipid Degradation 	NA	pldA	glpK	glpB	glpC	glpD	glpA	
+Adenosylcobalamin Salvage from Cobinamide 	NA	cobU	cobT	cobB	btuR	cobS	
+D-arabinose Degradation	NA	fucI	fucK	aldH	Z2778	yneI	Z2275	aldA	
+dTDP-sugar Biosynthesis	NA	wecD	wecE	rffH	rffG	
+Thiamine Salvage	NA	thiL	thiJ	pdxK	thiD	
+Phosphatidylglycerol Biosynthesis 	NA	cdsA	Z2318	plsC	plsB	pgsA	pgpA	pgpB	acpP	
+Acid Resistance	NA	adiA	speA	
+Amine and Polyamine Biosynthesis 	NA	gsp	
+Amine and Polyamine Degradation	NA	eutC	eutB	
+ Superpathways	NA	aspC	lysC	asd	thrA	metL	thrB	thrC	ilvD	ilvE	ilvC	ilvH	ilvI	ilvN	ilvG	ilvB	ilvM	tdcB	tdcR	mtlD	Z5618	srlD	gatZ	agaZ	gatY	agaY	gatD	pykF	pykA	eno	gpmA	gpmB	pgk	yibO	gapA	gapC	tpiA	fba	Z4881	yihT	Z5687	sgaE	pfkB	pfkA	ppsA	fbp	fadA	fadB	aidB	yafH	Z0892	Z0895	hyfC	hyfB	hyfG	hyfI	hyfH	hyfF	hyfD	hyfA	hyfE	hycD	hycC	hybC	hyaC	hyaB	hyaA	hycB	hycF	hycE	hycG	ygbO	Z4351	acs	fdx	ackA	tdcD	pta	purN	purF	purD	purL	purM	purT	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	fabF	fabI	fabZ	Z4865	bioC	Z4866	Z1549	fabG	fabH	bioF	bioD	bioB	acpP	bioA	hpt	gpt	deoD	gsk	glpK	ugpQ	glpQ	glpB	glpC	glpD	glpA	cls	pssA	Z5766	cdsA	Z2318	plsC	plsB	pgsA	pgpA	pgpB	lldD	pgi	glk	Z2811	metE	metH	metB	metA	metC	cobU	cobT	cobB	btuR	cobS	galU	pgm	ugd	asnB	asnA	aspA	ansA	ansB	serC	serA	serB	glyA	entC	menF	entB	entA	entE	gadB	gadA	panD	goaG	gabT	gabD	entD	entF	gldA	Z1970	Z1971	argG	argH	argI	carB	carA	argA	agaS	argB	argC	cstC	argD	argE	folP	folC	Z0055	folK	folE	pabA	pabB	pabC	folD	add	deoB	deoC	adhE	mhpF	Z2275	yneI	Z2778	uxuB	uxuA	uxaA	kdgK	eda	uxaC	uidA_2	uidA_1	purA	purB	adk	fliI	Z3799	atpB	atpE	atpF	atpH	atpA	atpG	atpD	nrdB	nrdE	atpC	nrdA	nrdF	ndk	trxA	guaB	hisH	guaA	gmk	nrdD	purC	purH	purE	purK	tyrB	pheA	tyrA	hisC	accC	accB	accA	accD	fabD	Z4863	fabB	edd	zwf	yjbG	talB	mipB	talA	talC	tktA	tktB	rpe	rpiA	gnd	gmd	Z3198	fcI	manA	manB	cpsG	galE	Z3206	gshA	gshB	pepN	ggt	codA	upp	pyrH	cmk	pyrG	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	aceF	aceE	lpdA	hemK	hemG	hemY	hemH	hemE	chuW	hemN	hemF	Z2491	glnA	gltD	gltB	cdd	udp	deoA	xylB	Z4878	xylA	ldhA	metK	nanA	nagB	nagA	adhC	adhP	pyrB	pyrI	pyrC	pyrE	pyrF	pyrD	mhpC	mhpB	mhpA	hcaB	hcaA2	hcaC	hcaD	hcaA1	mhpD	mhpE	cysJ	cysH	cysI	cysD	cysN	cysC	cysE	Z2984	cysK	cysM	wecG	Z5304	rfe	wecD	wecE	rffH	rffG	wecC	wecB	dut	thyA	yceG	tmk	dcd	
+Anhydromuropeptide Recycling	NA	amiA	nagA	mrsA	glmU	
+Guanosine Nucleotide Degradation	NA	yagT	deoD	
+D-Amino Acid Degradation	NA	dsdA	
+Fermentation to Lactate 	NA	lldD	pgi	glk	pykF	pykA	eno	gpmA	yibO	gpmB	pgk	gapA	gapC	Z2811	fba	tpiA	Z4881	yihT	Z5687	pfkB	pfkA	ppsA	fbp	
+L-asparagine Biosynthesis	NA	asnB	asnA	
+&beta; Alanine Biosynthesis	NA	panD	
+ Phosphatidylserine Biosynthesis	NA	pssA	Z5766	
+Fatty Acid and Lipid Biosynthesis	NA	birA	accC	accD	accA	accB	tesB	
+L-rhamnose Degradation	NA	rhaD	rhaB	rhaA	
+Glycolate Degradation	NA	gcl	ybbQ	
+Purine Nucleotide Degradation	NA	add	deoD	guaB	yagT	
+Activation 	NA	cysD	cysN	cysC	
+ Glycerol Degradation	NA	glpK	glpB	glpC	glpD	glpA	
+ Interconversions	NA	acpD	Z1544	acpS	acpP	
+ Carboxylate Degradation	NA	sucB	sucA	lpdA	aceF	aceE	
+Sulfur Compound Metabolism 	NA	cysJ	cysH	cysI	cysD	cysN	cysC	cysE	Z2984	cysK	cysM	serC	serA	trxA	serB	
+Galactose Degradation	NA	galK	wcaK	galT	galE	Z3206	ycjU	galM	yihR	
+ L-threonine Biosynthesis	NA	lysC	asd	thrA	metL	thrB	thrC	aspC	
+ L-glutamine Biosynthesis	NA	Z2491	glnA	
+ pyruvate fermentation to lactate 	NA	ackA	tdcD	pta	lldD	aceF	aceE	lpdA	
+(5Z)-dodecenoate Biosynthesis	NA	fabI	fabG	Z4865	fabB	Z4863	fabA	fabZ	acpP	
+Pyrimidine Deoxyribonucleoside Degradation	NA	cdd	udp	deoA	
+L-arginine Biosynthesis	NA	argG	argH	argI	carB	carA	argB	argC	
+Formaldehyde Assimilation	NA	sgaH	pfkB	pfkA	Z2811	fba	Z4881	yihT	Z5687	sgaE	talB	mipB	talA	tktA	tktB	talC	rpe	rpiA	
+Electron Transfer	NA	aceE	poxB	aceF	
+ Reductant Biosynthesis	NA	gsp	
+Purine Riboucleotide <i>De Novo</i> Biosynthesis	NA	guaB	hisH	guaA	gmk	ndk	purA	purB	adk	fliI	Z3799	atpB	atpE	atpF	atpH	atpA	atpG	atpD	atpC	
+Pyrimidine Ribonucleotide <i>De Novo</i> Biosynthesis 	NA	carB	carA	pyrB	pyrI	pyrC	pyrE	pyrF	pyrD	pyrH	cmk	ndk	pyrG	
+ L-glutamate Degradation 	NA	fadA	fadB	aidB	yafH	Z0892	Z0895	hyfC	hyfB	hyfG	hyfI	hyfH	hyfF	hyfD	hyfA	hyfE	hycD	hycC	hybC	hyaC	hyaB	hyaA	hycB	hycF	hycE	hycG	ygbO	Z4351	acs	fdx	
+Betaine Biosynthesis	NA	betA	betB	
+1,4-Dihydroxy-2-Naphthoate Biosynthesis	NA	betA	betB	
+Xylose Degradation	NA	xylB	Z4878	xylA	
+Ethanol Degradation	NA	adhE	adhC	adhP	Z2778	yneI	Z2275	aldA	aldH	mhpF	acs	
+4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	NA	thiD	thiC	
+L-histidine Biosynthesis	NA	hisD	hisC	hisB	hisF	hisA	hisI	hisG	
+|Respiration|	NA	Z4047	lpdA	sucB	sucA	
+Fermentation to Acetate 	NA	Z4047	lpdA	sucB	sucA	
+L-aspartate Biosynthesis	NA	aspC	
+Unsaturated Fatty Acid Biosynthesis	NA	Z4866	Z1549	fabB	Z4865	fabG	fabA	fabZ	fabI	acpP	
+Phenolic Compound Degradation	NA	hcaB	mhpC	mhpB	mhpA	hcaA2	hcaC	hcaD	hcaA1	
+Pentose Phosphate Pathways 	NA	talB	mipB	talA	talC	tktA	tktB	rpe	rpiA	yjbG	zwf	gnd	
+C1 Compound Utilization and Assimilation	NA	talB	mipB	talA	talC	tktA	tktB	rpe	rpiA	yjbG	zwf	gnd	
+L-methionine <i>De Novo</i> Biosynthesis	NA	metE	metH	metB	metA	metC	
+Chorismate Biosynthesis 	NA	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	
+Fatty Acid Biosynthesis	NA	fabZ	fabA	fabI	fabG	Z4865	fabH	fabF	fabB	Z4863	Z1549	Z4866	acpP	
+Fermentation to Acetate	NA	ackA	tdcD	pta	acs	
+Thiosulfate Disproportionation	NA	Z2789	sseA	
+Glycogen and Starch Biosynthesis	NA	glgA	glgB	glgC	pgm	
+D-Glucuronate Degradation	NA	uxaC	uidA_2	uidA_1	
+CMP-3-deoxy-D-<I>manno</I>-octulosonate Biosynthesis 	NA	kdsA	kdsB	
+Carbohydrate Biosynthesis 	NA	gmd	Z3198	fcI	pgi	manA	manB	cpsG	galU	pgm	galE	Z3206	ugd	
+Glycine Biosynthesis	NA	glyA	
+Fermentation to Short-Chain Fatty Acids 	NA	pta	ackA	tdcD	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	Z2275	Z2778	adhE	yneI	adhC	adhP	pykF	ldhA	Z0887	fumA	fumB	fumC	ppc	hycB	hycF	hycE	hycG	fdhF	frdD	frdC	frdB	frdA	gltA	prpC	acnA	acnB	icdA	mdh	ylbC	sfcA	
+Carboxylate Degradation	NA	gntK	mhpD	mhpE	adhE	mhpF	Z2275	yneI	Z2778	fadA	fadB	citD	citE	citF	acs	
+L-isoleucine Biosynthesis	NA	ilvD	ilvE	ilvC	ilvH	ilvI	ilvB	ilvN	ilvG	ilvM	tdcB	tdcR	ilvA	Z0895	
+ Polysaccharide Biosynthesis 	NA	yhjOP	
+Detoxification 	NA	cynS	cynT	
+Urea Degradation	NA	ureC	ureB	ureA	ureD	ureF	ureG	ureA_2	ureB_2	ureC_2	ureD_2	ureF_2	ureG_2	
+Aerobic Respiration 	NA	ndh	nuoA	nuoB	nuoC	nuoE	nuoF	nuoG	nuoH	nuoI	nuoJ	nuoK	nuoL	nuoN	cyoA	nuoM	cyoB	cyoC	cyoD	cydA	cydB	sdhB	sdhC	sdhD	sdhA	yfeH	ygbE	
+Glycerol Degradation 	NA	glpK	ugpQ	glpQ	glpB	glpC	glpD	glpA	
+Fatty Acid and Lipid Degradation	NA	ybaC	yhjY	
+Pyrimidine Nucleotide Salvage	NA	cdd	udk	cmk	ndk	upp	
+Acrylonitrile Degradation	NA	ycbB	Z4134	ygiC	gsp	yjfC	
+NAD Biosynthesis	NA	nadE	nadC	nadA	nadB	pncB	ycbB	Z4134	ygiC	gsp	yjfC	
+Metabolic Clusters 	NA	yceG	tmk	cmk	ndk	gmk	dut	thyA	nrdB	nrdA	nrdF	nrdE	trxA	
+L-leucine Biosynthesis	NA	leuB	leuC	leuA	leuD		
+L-alanine Biosynthesis	NA	ilvE	dadX	alr	avtA	
+Sulfur Compound Metabolism	NA	Z3785	Z3784	Z3783	
+Hydrogen Production	NA	fdhF	ygbO	hyfG	hycG	Z4351	
+Pyrimidine Deoxyribonucleotide <i>De Novo</i> Biosynthesis 	NA	dut	thyA	yceG	tmk	nrdB	nrdA	nrdF	nrdE	carB	carA	pyrB	pyrI	pyrE	pyrF	pyrC	pyrD	pyrH	cmk	pyrG	trxA	dcd	nrdD	ndk	
+Cyclopropane Fatty Acid Biosynthesis	NA	cfa	
+Kdo Transfer to Lipid IV<SUB>A</SUB>	NA	kdtA	
+Sugar Phosphate Biosynthesis	NA	prsA	
+D-Glucarate Degradation	NA	ygcY	ygcX	
+Amine and Polyamine Degradation 	NA	ygcY	ygcX	
+Lipopolysaccharide Biosynthesis 	NA	wecG	Z5304	rfe	wecD	wecE	rffH	rffG	wecC	wecB	
+Glycerol Degradation	NA	gldA	Z1970	Z1971	ugpQ	glpQ	glpB	glpC	glpD	glpA	
+L-Ornithine Biosynthesis	NA	argA	agaS	argB	argC	cstC	argD	argE	
+Lipoate Biosynthesis	NA	Z5988	lipA	lipB	acpP	
+pyruvate fermentation to lactate	NA	lldD	
+Flavin Biosynthesis	NA	ribE	Z0516	ribB	ribD	ribA	
+ Vitamin B<sub>6</sub> Biosynthesis	NA	pdxK	pdxY	pdxH	epd	dxs	pdxJ	pdxB	serC	pdxA	
+Heme <i>b</i> Biosynthesis	NA	hemE	hemK	hemG	hemY	hemH	hemF	chuW	hemN	
+L-valine Biosynthesis	NA	ilvD	ilvE	ilvC	ilvG	ilvH	ilvI	ilvM	ilvN	
+Catechol Degradation	NA	ycjG	
+L-arabinose Degradation	NA	araA	araD	araB	
+Guanine and Guanosine Salvage 	NA	hpt	gpt	deoD	gsk	
+Glycolysis	NA	pykF	pykA	eno	gpmA	yibO	gpmB	pgk	gapA	gapC	tpiA	Z2811	fba	yihT	Z5687	Z4881	sgaE	pfkB	pfkA	fbp	ppsA	glk	pgi	
+Lactose Degradation	NA	lacZ	
+Reactive Oxygen Specie Degradation	NA	Z3312	sodB	sodC	sodA	katG	katE	
+L-phenylalanine Biosynthesis 	NA	aroB	aroG	aroH	aroF	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	tyrB	pheA	tyrA	hisC	
+ Pyrimidine Deoxyribonucleotide <i>De Novo</i> Biosynthesis	NA	dut	thyA	yceG	tmk	ndk	nrdB	nrdA	nrdF	nrdE	trxA	
+Arsenate Detoxification	NA	arsC	grxA	
+Aminoacyl-tRNA Charging 	NA	argS	cysS	glnS	gor	gltX	ileS	leuS	valS	alaS	asnS	aspS	tyrS	thrS	serS	trpS	proS	pheM	pheT	metG	yjeA	lysS	lysU	hisS	glyQ	glyS	cysT	glnV	glnW	glnX	glnU	gltU	gltV	gltW	gltT	leuU	leuZ	leuV	leuW	leuT	leuX	valW	valT	valX	valU	valY	valV	valZ	alaV	alaX	alaT	alaU	asnU	asnV	asnW	asnT	aspT	aspU	aspV	tyrV	tyrT	tyrU	trpT	thrT	thrU	thrV	thrW	serW	serT	serX	serU	serV	proM	proK	proL	pheU	pheV	metU	metZ	metV	metW	metT	metY	lysW	lysY	lysT	lysZ	lysV	hisR	glyX	glyU	glyY	glyV	glyW	
+L-serine Degradation	NA	sdaA	sdaB	Z4464	
+Sugar Degradation	NA	manA	Z4489	nagA	gatZ	agaZ	gatY	agaY	agp	pgm	glk	gcd	deoB	deoC	adhE	mhpF	Z2275	yneI	Z2778	fruK	fucA	fucK	fucI	melA	
+Vitamin B<sub>6</sub> Biosynthesis	NA	pdxH	epd	dxs	pdxJ	pdxB	serC	pdxA	pdxK	pdxY	
+ADP-sugar Biosynthesis	NA	yaeD	rfaD	gmhA	
+Folate Biosynthesis	NA	glyA	folC	pabA	pabB	pabC	folP	Z0055	
+L-proline Degradation	NA	putA	
+Nucleic Acid Processing	NA	rnd	cca	rph	
+Acetyl-CoA Biosynthesis 	NA	sucB	sucA	lpdA	aceF	aceE	
+Aromatic Compound Degradation	NA	Z1506	Z3503	gabD	
+D-Galacturonate Degradation	NA	uxaA	kdgK	uxaB	uxaC	
+Anaerobic Respiration	NA	pykF	pykA	aceF	aceE	lpdA	gltA	prpC	acnA	acnB	icdA	ppc	Z0887	fumB	fumC	fumA	tdcE	ybiY	yfiD	pflA	pflD	pflB	pflC	eno	hycB	hycF	hycE	hycG	fdhF	frdD	frdC	frdB	frdA	mdh	ylbC	sfcA	
+Sucrose Degradation	NA	Z3625	Z3624	
+ Nitrate Reduction	NA	fdhF	fdoI	fdoG	fdoH	fdnH	fdnI	fdnG	hyfI	narH	napA	narG	nrfG	nrfF	nrfD	nrfB	nrfC	nirC	
+Thiazole Biosynthesis	NA	thiG	thiH	dxs	thiF	thiS	
+Biotin Biosynthesis 	NA	fabF	fabI	fabZ	Z4865	bioC	Z4866	Z1549	fabG	fabH	bioF	bioD	bioB	acpP	bioA	
+L-glutamate Degradation 	NA	gadB	gadA	panD	goaG	gabT	gabD	
+L-asparagine Biosynthesis 	NA	asnB	asnA	
+Folate Biosynthesis 	NA	folP	folC	Z0055	folK	folE	pabA	pabB	pabC	folD	purN	purT	
+Carboxylate Degradation 	NA	acs	ackA	tdcD	pta	nanA	nagB	nagA	pykF	pykA	eno	gpmA	yibO	gpmB	pgk	gapA	gapC	Z2811	fba	tpiA	Z4881	yihT	Z5687	pfkB	pfkA	ppsA	fbp	Z2275	yneI	Z2778	adhE	adhC	adhP	mhpF	tdcE	ybiY	yfiD	Z1045	pflA	pflD	pflB	pflC	
+Ubiquinol Biosynthesis	NA	ubiG	ubiX	ubiA	
+Generation of Precursor Metabolite and Energy 	NA	ubiG	ubiX	ubiA	eda	edd	pykF	pykA	eno	gpmA	yibO	gpmB	pgk	gapA	gapC	tpiA	fba	Z4881	Z2811	yihT	Z5687	sgaE	pfkA	pgi	ppsA	fbp	zwf	yjbG	
+Ontology - parents of class	NA	Genesofpathway	
+5-Aminoimidazole Ribonucleotide Biosynthesis 	NA	purN	purF	purD	purL	purM	purT	
+5-Aminoimidazole Ribonucleotide Biosynthesis	NA	purF	purD	purL	purM	purT	purN	
+Chorismate Biosynthesis	NA	aroC	aroA	aroL	aroK	aroE	aroD	ydiB	
+Porphyrin Compound Biosynthesis	NA	hemX	cysG	
+<i>N</i>-Acetylneuraminate and <i>N</i>-Acetylmannosamine Degradation	NA	nanA	
+Ascorbate Biosynthesis	NA	galU	pgm	ugd	
+ Pyrimidine Nucleotide Salvage	NA	yceG	tmk	cmk	ndk	
+UDP-sugar Biosynthesis	NA	wecC	wecB	ugd	galE	Z3206	galU	pgm	
+L-tryptophan Degradation	NA	tnaA	
+GDP-sugar Biosynthesis	NA	per	gmd	Z3198	fcI	pgi	manA	manB	cpsG	
+L-glutamate Degradation	NA	Z0892	Z0895	aspC	aspA	
+Fatty Acid and Lipid Biosynthesis 	NA	ybbF	lpxD	lpxC	lpxA	acpP	
+CDP-diacylglycerol Biosynthesis	NA	cdsA	Z2318	plsC	plsB	acpP	
+L-arginine Degradation	NA	adiA	speA	speB	
